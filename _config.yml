@@ -21,7 +21,7 @@
 title: François Nicholas
 email: your-email@example.com
 description: François Nicholas. Senior Engineering Manager at PlayStation. Aspiring Stakeholder and Venture Capitalist. Interested in joining a board. 
-baseurl: /blog2 # the subpath of your site, e.g. /blog
+baseurl: /blog2  # the subpath of your site, e.g. /blog
 url: https://lolajiang.com # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: francoisnicholas
 github_username: francoisnicholas
